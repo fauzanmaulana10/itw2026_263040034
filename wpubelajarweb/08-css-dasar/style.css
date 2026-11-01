@@ -1,0 +1,21 @@
+   h1 {
+            font-size: 120px;
+            font-family: arial;
+            color: lightblue;
+            text-align: center;
+        }
+
+        #p1 {
+            color: navy;
+            font-size: 30px;
+            text-align: center;
+        }
+
+        #p2 {
+            color: green;
+        
+        
+        }
+        garis-bawah {
+            text-decoration: underline;
+        }
